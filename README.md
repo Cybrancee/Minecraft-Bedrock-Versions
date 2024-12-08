@@ -1,2 +1,79 @@
-# Minecraft-Bedrock-Versions
-Repository for Minecraft Bedrock server versions
+<h1 align="center"> Minecraft Bedrock Versions</h1>
+
+
+
+# Table of Contents
+
+- [About](#about)
+
+- [Minecraft Versions](#minecraft-versions)
+    - [1.21](#121)
+    - [1.20](#120)
+
+- [Issues](#issues)
+
+</br>
+
+# About
+
+This document provides a list of compatible Minecraft Bedrock client and server versions. It's essential to ensure both client and server versions are compatible to avoid connection issues and gameplay problems.
+
+Important Notes:
+
+- Not all client versions are compatible with all server versions. Please refer to the specific table below for accurate information.
+- This document will be updated regularly to reflect the latest version compatibility.
+
+</br>
+
+# Minecraft Versions
+
+## 1.21
+| Client Version | Server Version |
+|---|---|
+| 1.21.50 | 1.21.50.10 |
+| 1.21.44 | 1.21.44.01 |
+| 1.21.43 | 1.21.43.01 |
+| 1.21.42 | 1.21.42.01 |
+| 1.21.41 | 1.21.41.01 |
+| 1.21.40 | N/A |
+| 1.21.31 | 1.21.31.04 |
+| 1.21.30 | 1.21.30.03 |
+| 1.21.23 | 1.21.23.01 |
+| 1.21.22 | 1.21.22.01 |
+| 1.21.21 | N/A |
+| 1.21.20 | 1.21.20.03 |
+| 1.21.3 | 1.21.3.01 |
+| 1.21.2 | 1.21.2.02 |
+| 1.21.1 | 1.21.1.03 |
+| 1.21.0 | 1.21.0.03 |
+
+
+## 1.20
+| Client Version | Server Version |
+|---|---|
+| 1.20.81 | 1.20.81.01 |
+| 1.20.80 | 1.20.80.05 |
+| 1.20.73 | 1.20.73.01 |
+| 1.20.72 | 1.20.72.01 |
+| 1.20.71 | 1.20.71.01 |
+| 1.20.70 | 1.20.70.05 |
+| 1.20.62 | 1.20.62.03 |
+| 1.20.60 | N/A |
+| 1.20.51 | 1.20.51.01 |
+| 1.20.50 | 1.20.50.03 |
+| 1.20.41 | 1.20.41.02 |
+| 1.20.40 | 1.20.40.01 |
+| 1.20.32 | 1.20.32.03 |
+| 1.20.31 | 1.20.31.01 |
+| 1.20.30 | 1.20.30.02 |
+| 1.20.15 | 1.20.15.01 |
+| 1.20.14 | 1.20.14.01 |
+| 1.20.13 | 1.20.13.01 |
+| 1.20.12 | 1.20.12.01 |
+| 1.20.10 | 1.20.10.01 |
+| 1.20.1 | 1.20.1.02 |
+| 1.20.0 | 1.20.0.01 |
+
+
+# Issues
+If you encounter any issues or have suggestions for improvement, please create a new issue.
