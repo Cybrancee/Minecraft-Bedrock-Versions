@@ -7,10 +7,12 @@
 - [About](#about)
 
 - [Minecraft Versions](#minecraft-versions)
+    - [Latest](#latest)
     - [1.21](#121)
     - [1.20](#120)
 
 - [Issues](#issues)
+- [Contributing](#contributing)
 
 </br>
 
@@ -26,6 +28,14 @@ Important Notes:
 </br>
 
 # Minecraft Versions
+
+## Latest
+
+The current latest version can be found below:
+
+| Client Version | Server Version |
+|---|---|
+| 1.21.50 | 1.21.50.10 |
 
 ## 1.21
 | Client Version | Server Version |
@@ -47,6 +57,7 @@ Important Notes:
 | 1.21.1 | 1.21.1.03 |
 | 1.21.0 | 1.21.0.03 |
 
+</br>
 
 ## 1.20
 | Client Version | Server Version |
@@ -74,6 +85,12 @@ Important Notes:
 | 1.20.1 | 1.20.1.02 |
 | 1.20.0 | 1.20.0.01 |
 
+</br>
 
 # Issues
 If you encounter any issues or have suggestions for improvement, please create a new issue.
+
+</br>
+
+# Contributing
+We welcome contributions to this project! If you're interested in contributing, please fork the repository, make your changes, and submit a pull request.
