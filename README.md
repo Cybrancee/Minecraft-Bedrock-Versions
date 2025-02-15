@@ -35,11 +35,12 @@ The current latest version can be found below:
 
 | Client Version | Server Version |
 |---|---|
-| 1.21.50 | 1.21.50.10 |
+| 1.21.60 | 1.21.60.10 |
 
 ## 1.21
 | Client Version | Server Version |
 |---|---|
+| 1.21.60 | 1.21.60.10 |
 | 1.21.50 | 1.21.50.10 |
 | 1.21.44 | 1.21.44.01 |
 | 1.21.43 | 1.21.43.01 |
