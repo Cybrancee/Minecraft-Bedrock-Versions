@@ -8,6 +8,7 @@
 
 - [Minecraft Versions](#minecraft-versions)
     - [Latest](#latest)
+    - [1.26](#126)
     - [1.21](#121)
     - [1.20](#120)
 
@@ -35,7 +36,16 @@ The current latest version can be found below:
 
 | Client Version | Server Version |
 |---|---|
-| 1.21.132 | 1.21.132.3 |
+| 1.26 | 1.26.0.2 |
+
+</br>
+
+## 1.26
+| Client Version | Server Version |
+|---|---|
+| 1.26 | 1.26.0.2 |
+
+</br>
 
 ## 1.21
 | Client Version | Server Version |
