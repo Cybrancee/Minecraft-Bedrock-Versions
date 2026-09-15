@@ -36,13 +36,14 @@ The current latest version can be found below:
 
 | Client Version | Server Version |
 |---|---|
-| 1.26.45 | 1.26.45.1 |
+| 1.26.50 | 1.26.50.5 |
 
 </br>
 
 ## 1.26
 | Client Version | Server Version |
 |---|---|
+| 1.26.50 | 1.26.50.5 |
 | 1.26.45 | 1.26.45.1 |
 | 1.26.44 | 1.26.44.3 |
 | 1.26.40 | 1.26.40.8 |
